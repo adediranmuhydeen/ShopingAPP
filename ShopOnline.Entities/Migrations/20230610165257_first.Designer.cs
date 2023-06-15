@@ -11,8 +11,8 @@ using ShopOnline.Entities.Data;
 namespace ShopOnline.Entities.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230610155642_firs")]
-    partial class firs
+    [Migration("20230610165257_first")]
+    partial class first
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
